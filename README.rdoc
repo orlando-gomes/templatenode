@@ -1,0 +1,2 @@
+para utilizar, apagar o yarn.lock e dar
+um comando $ yarn
