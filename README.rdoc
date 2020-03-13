@@ -1,6 +1,6 @@
 Com sequelize já incluído
 para utilizar, apagar o yarn.lock e dar
-um comando $ yarn
+um comando $ yarn;
 
-migration ex
+Migrations: 
 $ yarn sequelize migration:create --name=create-users
