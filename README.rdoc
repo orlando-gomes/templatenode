@@ -1,6 +1,6 @@
-Com sequelize já incluído
-para utilizar, apagar o yarn.lock e dar
+Com sequelize, bcryptjs já incluídos.
+Para utilizar, apagar o yarn.lock e dar
 um comando $ yarn;
 
-Migrations: 
+Migrations:
 $ yarn sequelize migration:create --name=create-users

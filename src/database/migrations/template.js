@@ -1,4 +1,8 @@
 // must delete this one, after use the code here
+// $ yarn sequelize migration:create - -name=create-users
+// $ yarn sequelize db:migrate
+// $ yarn sequelize db:migrate:undo
+// $ yarn sequelize db:migrate:undo:all
 module.exports = {
   up: (queryInterface, Sequelize) => {
     return queryInterface.createTable('users', {
