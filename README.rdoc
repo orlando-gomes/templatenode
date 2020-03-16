@@ -7,3 +7,4 @@ $ yarn sequelize migration:create --name=create-users
 
 Seeds:
 $ yarn sequelize seed:generate --name= admin-user
+$ yarn sequelize db:seed:all
