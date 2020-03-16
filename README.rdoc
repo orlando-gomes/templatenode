@@ -4,3 +4,6 @@ um comando $ yarn;
 
 Migrations:
 $ yarn sequelize migration:create --name=create-users
+
+Seeds:
+$ yarn sequelize seed:generate --name= admin-user
